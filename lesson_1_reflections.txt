@@ -1,0 +1,26 @@
+1.
+It pointed to the lines that were added and deleted.
+This allowed me to only have to look at the lines with a +.
+
+2.
+Seeing how all of the changes were made would make debugging a lot easier.
+Understanding how to experiment with code would also be useful as
+reverting back to an older version would make experimenting less risky.
+
+3.
+Humans are not great at judging and are lazy so sometimes automatic commits prevent this.
+But too many commits can make things are to sift through. It is a trade off.
+
+4.
+Sometimes it makes sense to treat the entire repository as a unit and sometimes it doesn't.
+For google docs, it makes sense to treat each doc as an independent entity.
+
+5.
+Git diff shows the difference between two arbitrary commits.
+Git log will show all of the history for commits, but not show the specific changes.
+
+6.
+There is less risk that something will be messed up forever.
+
+7.
+Use git to start more effectively working on other courses on udacity.
