@@ -1,0 +1,8 @@
+1.
+There are no commits right away.
+Any first commits need to be made by the user even though the repository has been made.
+
+2.
+Yes! The staging area allows commits to be bundled into logical pieces.
+If more than one problem is being solved, it is nice to be able to compartmentalize
+each for people later on.
