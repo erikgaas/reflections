@@ -6,3 +6,17 @@ Any first commits need to be made by the user even though the repository has bee
 Yes! The staging area allows commits to be bundled into logical pieces.
 If more than one problem is being solved, it is nice to be able to compartmentalize
 each for people later on.
+
+3.
+The staging area can be used to sift through the active changes and sort them out according to logical change.
+
+4.
+Adding an experimental feature or creating versions for different kinds of users.
+
+5. 
+Diagrams represent what we want to know about our branches.
+It gives us intuition for the flow of information
+
+6.
+Git automatic merging works well for quickly seeing what the conflicts are and determining what needs to be changed.
+It might be tricky if it does anything that is unexpected like highlighting trivial syntax.
